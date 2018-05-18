@@ -408,7 +408,6 @@ img:hover {
         width: 400px;
     }
     .menu {
-        position: fixed;
         z-index: 2;
     }
     .menu li:hover {
